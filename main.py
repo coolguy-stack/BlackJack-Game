@@ -10,7 +10,7 @@ gameState = "start"
 
 # variables for betting
 totalMoney = 500
-moneyWon = 0
+moneyWon = 00
 
 # calculates score of each card
 def totalScore(hand):
